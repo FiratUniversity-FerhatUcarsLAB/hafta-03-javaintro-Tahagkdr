@@ -2,7 +2,7 @@ public class OgrenciBilgiKarti {
 
     public static void main(String[] args) {
         
-        // 1. Bilgileri değişkenlere atayalım
+      
         String ad = "Muhammed Taha";
         String soyad = "Gökdere";
         
@@ -11,7 +11,7 @@ public class OgrenciBilgiKarti {
         
         String bolum = "Yazılım";
 
-        // 2. Güzel bir formatta yazdırma
+      
         
         String cizgi = "=============================================";
         String bosluk = "|                                           |";
@@ -34,3 +34,4 @@ public class OgrenciBilgiKarti {
         System.out.println(cizgi + "\n");
     }
 }
+
